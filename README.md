@@ -1,4 +1,4 @@
-# git
+# Wyncode Week 1 code challenges
 
 The file hwanswers.rb showcases 3 of my best answers to coding challenges presented by Wyncode for week 1. 
 To run the code, users may run the file name in their terminal with a space and number of their choice after the file name.

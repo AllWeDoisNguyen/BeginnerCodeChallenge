@@ -71,6 +71,7 @@ cats.each_with_index do |x, index|
 end
 
 puts "------ Please scroll up to see the pyramids ------"
+puts ":DDDDDDD"
 
 
 
